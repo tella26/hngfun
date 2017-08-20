@@ -13,8 +13,10 @@
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 
 <!--Footer-->
-<footer class="footer-distributed">
-                         <div class="footer-left">
+
+       <footer class="footer-distributed">
+
+			<div class="footer-left">
 
 				<h3><span><u>Sponsors</u></span></h3>
 				<br>
@@ -51,9 +53,9 @@
 				<h3>Enugu<span></span></h3>
 			</div>
 
+
 </footer>
 <!--End of Footer-->
-
 
 </body>
 </html>
