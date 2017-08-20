@@ -14,7 +14,7 @@
 
 <!--Footer-->
 <footer class="footer-distributed">
-                          <div class="footer-left">
+                         <div class="footer-left">
 
 				<h3><span><u>Sponsors</u></span></h3>
 				<br>
