@@ -13,8 +13,7 @@
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 
 <!--Footer-->
-<footer id="landing-footer" class="clearfix">
-    <div class="row clearfix">
+<footer class="footer-distributed">
 
         <div class="footer-left">
 
@@ -52,8 +51,6 @@
 				<br>
 				<h3>Enugu<span></span></h3>
 			</div>
-
-        <p id="copyright" class="col-2">Made with love by Team 1</a></p>
 
     </div>
 </footer>
