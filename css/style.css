@@ -763,8 +763,62 @@ h6 {
         padding-right: 20px;
     }
     
+
+    /*-----------------Sections-----------------*/
+
+    /* Video */
+    .slvj-lightbox iframe, .slvj-lightbox object, .slvj-lightbox embed {
+        height: 432px !important;
+    }
+
+}
+.center {
+    text-align: center;
+}
+.divider-h { 
     
-          /*-----------------footer Elements-----------------*/
+    margin-left: 100px;
+    margin-right: 100px;
+    border-bottom: 1px solid red;
+    background: #DDC580;
+   
+}
+.header-text{
+    border-bottom: 4px solid #DDC580;
+    font-size:xx-large;
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+}
+.section-1{
+    border-bottom: 1.5px solid #DDC580;
+    font-size:x-large;
+    width: 35vw;
+    margin-top: 80px;
+    text-align: center;
+     margin: auto;
+     padding: 5px;
+     font-weight: bold;
+     
+}
+
+   div.margin{
+       margin-top: 80px;
+   }
+    
+    
+.section-1-body{
+    font-size:x-large;
+    width: 60vw;
+    text-align: center;
+     margin: auto;
+     color: #A29A9A;
+     font-size: 15px;
+}    
+div.body{
+    margin-top: 5px;
+}
 .footer-distributed{
 	background-color: #292c2f;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
@@ -776,6 +830,8 @@ h6 {
 	padding: 55px 50px;
 	margin-top: 80px;
 }
+/* footer
+===============================*/
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
 .footer-distributed .footer-right{
@@ -836,60 +892,3 @@ h6 {
 }
 
 
-      
-
-    /*-----------------Sections-----------------*/
-
-    /* Video */
-    .slvj-lightbox iframe, .slvj-lightbox object, .slvj-lightbox embed {
-        height: 432px !important;
-    }
-
-}
-.center {
-    text-align: center;
-}
-.divider-h { 
-    
-    margin-left: 100px;
-    margin-right: 100px;
-    border-bottom: 1px solid red;
-    background: #DDC580;
-   
-}
-.header-text{
-    border-bottom: 4px solid #DDC580;
-    font-size:xx-large;
-    width: 50vw;
-    text-align: center;
-    margin: auto;
-    font-weight: bold;
-}
-.section-1{
-    border-bottom: 1.5px solid #DDC580;
-    font-size:x-large;
-    width: 35vw;
-    margin-top: 80px;
-    text-align: center;
-     margin: auto;
-     padding: 5px;
-     font-weight: bold;
-     
-}
-
-   div.margin{
-       margin-top: 80px;
-   }
-    
-    
-.section-1-body{
-    font-size:x-large;
-    width: 60vw;
-    text-align: center;
-     margin: auto;
-     color: #A29A9A;
-     font-size: 15px;
-}    
-div.body{
-    margin-top: 5px;
-}
